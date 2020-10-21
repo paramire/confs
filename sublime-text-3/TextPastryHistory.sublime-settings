@@ -1,0 +1,53 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"stop": "2"
+				},
+				"command": "text_pastry_range",
+				"text": "range 2"
+			},
+			"key": "3a7d910a1f9af0c965c93a249c7dc552",
+			"label": "range 2"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"stop": "4"
+				},
+				"command": "text_pastry_range",
+				"text": "range 4"
+			},
+			"key": "f0d4c48f4ff329c836a0542e5e36bbaa",
+			"label": "range 4"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "range 1, 4"
+				},
+				"command": "text_pastry_range_parser",
+				"text": "range 1, 4"
+			},
+			"key": "cf1a7cf4e35ddc47d2e6fdf52ad07df5",
+			"label": "range 1, 4"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"text": "range 1, 4"
+		},
+		"command": "text_pastry_range_parser",
+		"text": "range 1, 4"
+	}
+}

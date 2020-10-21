@@ -1,0 +1,40 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Materialize/schemes/Material Glacier.tmTheme",
+	"font_face": "Hasklig Light",
+	"font_options":
+	[
+		"no_bold",
+		"no_calt"
+	],
+	"font_size": 10,
+	"gruvbox_autocomplete_compact": true,
+	"gruvbox_statusbar_xxs": true,
+	"gruvbox_tabs_xxs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		87,
+		100,
+		120
+	],
+	"scroll_past_end": true,
+	"show_encoding": true,
+	"show_errors_inline": false,
+	"tab_size": 4,
+	"theme": "gruvbox.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

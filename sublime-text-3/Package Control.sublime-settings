@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"ClearConsole",
+		"ColorSchemeEditor",
+		"Colorsublime",
+		"gruvbox",
+		"Highlight Duplicates",
+		"Indent XML",
+		"Jinja2",
+		"MarkdownPreview",
+		"Materialize",
+		"MaxPane",
+		"Package Control",
+		"Pretty JSON",
+		"Rails Completions",
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-pycodestyle",
+		"SublimeLinter-pylint",
+		"SublimeLinter-rubocop",
+		"Text Pastry",
+		"TOML",
+		"TrailingSpaces",
+		"TypeScript",
+		"Vue Syntax Highlight"
+	]
+}

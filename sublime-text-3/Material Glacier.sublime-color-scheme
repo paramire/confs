@@ -1,0 +1,12 @@
+{
+    "globals":{
+        "gutter_foreground": "#9ba5b0",
+    },
+    "rules": [
+        {
+            "name": "Comment",
+            "scope": "comment",
+            "foreground": "#707f8f"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+// SublimeLinter Settings - User
+{
+    "debug": true,
+    "paths": {
+        "osx": [
+            "~/.rvm/rubies/ruby-2.5.1/bin"
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+[
+
+    { "keys": ["super+shift+1"], "command": "fold" },
+    { "keys": ["super+shift+2"], "command": "unfold" },
+    { "keys": ["super+shift+enter"], "command": "max_pane" },
+    { "keys": ["super+shift+c"], "command": "copy_path" }
+]

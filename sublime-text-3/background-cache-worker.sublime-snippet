@@ -1,0 +1,15 @@
+<snippet>
+		<content><![CDATA[
+BackgroundCacheWorker.perform_async(
+	${1:cache_folder},
+	${2:cache_filename},
+	${3:module_name},
+	${4:method_name},
+	${5:func_args}
+)
+]]></content>
+		<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+		<tabTrigger>BCW</tabTrigger>
+		<!-- Optional: Set a scope to limit where the snippet will trigger -->
+		<scope>source.ruby</scope>
+</snippet>

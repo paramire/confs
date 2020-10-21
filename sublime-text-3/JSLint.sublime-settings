@@ -1,0 +1,7 @@
+{
+	"options" : [
+		"--predef", "['angular']",
+		"--white", "true",
+		"--this", "true"
+	]
+}
