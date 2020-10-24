@@ -1,0 +1,6 @@
+[alias]
+	files-commit = diff-tree --no-commit-id --name-only -r
+	diff-less = diff --color-always
+	root = rev-parse --show-toplevel
+[core]
+	page = less -+F -+X
